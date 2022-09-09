@@ -6,6 +6,7 @@ url: "https://h2hc-2022-rfvillage.github.io"
 
 # Build settings
 theme: jekyll-theme-console
+style: hacker
 
 markdown:       kramdown
 include:
