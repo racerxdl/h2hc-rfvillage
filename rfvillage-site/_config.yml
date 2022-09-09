@@ -1,8 +1,8 @@
 title: H2HC 2022 - Rf Village
 email: rfvillage@no-valid-email
 description: Hackers 2 Hackers Conference - Radio Frequency Village
-baseurl: ""
-url: "https://h2hc-2022-rfvillage.github.io"
+baseurl: "h2hc-2022-rfvillage/"
+url: "https://racerxdl.github.io/h2hc-2022-rfvillage/"
 
 # Build settings
 theme: jekyll-theme-console
